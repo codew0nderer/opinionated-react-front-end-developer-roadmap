@@ -841,3 +841,8 @@ Overall, React Query streamlines the process of fetching, caching, and updating 
 - [Practical React Query | TkDodo's blog](https://tkdodo.eu/blog/practical-react-query)
 - [Overview | TanStack Query Docs](https://tanstack.com/query/latest/docs/react/overview)
 - [React Query in 100 Seconds - YouTube](https://www.youtube.com/watch?v=novnyCaa7To)
+
+## Contributors
+
+- [quentinguitard](https://github.com/quentinguitard)
+- [simo](https://github.com/codew0nderer)
